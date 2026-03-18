@@ -1,3 +1,13 @@
+NOTE:
+> **Want to contribute?** This project is currently in Phase 1 
+> development. All participation requires an approved application. 
+> Visit [integralcollective.io/application.html] to apply. 
+> Repositories are public for transparency — interaction is gated 
+> to approved contributors only.
+
+___
+
+
 # CDS — Collaborative Decision System
 
 The Collaborative Decision System is Integral's governance engine. It is the 
